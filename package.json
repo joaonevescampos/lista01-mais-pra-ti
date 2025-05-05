@@ -1,0 +1,22 @@
+{
+  "name": "lista01",
+  "version": "1.0.0",
+  "description": "1. Escreva um programa que recebe um número inteiro e verifica se ele é par ou ímpar utilizando uma estrutura de controle if.",
+  "main": "ex01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaonevescampos/lista01-mais-pra-ti.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaonevescampos/lista01-mais-pra-ti/issues"
+  },
+  "homepage": "https://github.com/joaonevescampos/lista01-mais-pra-ti#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
