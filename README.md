@@ -1,3 +1,30 @@
+# Manual de execução dos programas
+
+## Pré requisitos:
+- Vs Code
+- Extensão Code Runner
+- Node JS
+
+## 1) Clonar o repositório na sua máquina
+
+Digite no terminal dentro da pasta de interesse: ```git clone https://github.com/joaonevescampos/lista01-mais-pra-ti.git```
+
+## 2) Instalar o pacote prompt-sync
+
+Digite no terminal dentro do seu projeto clonado: ```npm install```
+
+Isso irá instalar a node_module com os pacote necessários para a execução do programa.
+
+## 3) Rodar o programa
+
+Digite: ```node [nome-do-arquivo-que-deseja-executar]```. Exemplo de como rodar o exercício 1:
+
+Digite no terminal: ```node ex01.js```
+
+**Obs.: Faça o mesmo para os demais exercícios**
+
+# Exercícios
+
 1. Escreva um programa que recebe um número inteiro e verifica se ele é par ou ímpar
 utilizando uma estrutura de controle if.
 
